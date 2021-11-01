@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/export/home/alara/Downloads/lombok.jar"/>
+	<classpathentry kind="lib" path="/export/home/alara/Desktop/TableLoad/jackson-annotations-2.13.0-rc1.jar"/>
+	<classpathentry kind="lib" path="/export/home/alara/Desktop/TableLoad/jackson-core-2.13.0-rc1.jar"/>
+	<classpathentry kind="lib" path="/export/home/alara/Desktop/TableLoad/jackson-databind-2.13.0-rc1.jar"/>
+	<classpathentry kind="lib" path="/export/home/alara/Desktop/TableLoad/json-20210307.jar"/>
+	<classpathentry kind="lib" path="/export/home/alara/Desktop/TableLoad/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="/export/home/alara/Desktop/TableLoad/com.fasterxml.jackson.csv.jar"/>
+	<classpathentry kind="lib" path="/export/home/alara/Desktop/TableLoad/gson-2.8.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
